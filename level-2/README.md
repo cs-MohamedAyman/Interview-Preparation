@@ -1,5 +1,5 @@
-<a href="/roles/software-engineering-2.md"><img align="right" width="160" src="/logos/emp06.png"></img></a>
-<a href="/roles/software-engineering-2.md"><img align="right" width="160" src="/logos/emp05.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="160" src="/logos/emp06.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="160" src="/logos/emp05.png"></img></a>
 
 # Graduate Intern Role
 
