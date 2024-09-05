@@ -1,5 +1,5 @@
-<a href="/roles/software-engineering-3.md"><img align="right" width="160" src="/logos/emp10.png"></img></a>
-<a href="/roles/software-engineering-3.md"><img align="right" width="160" src="/logos/emp09.png"></img></a>
+<a href="/level-3/README.md"><img align="right" width="160" src="/logos/emp10.png"></img></a>
+<a href="/level-3/README.md"><img align="right" width="160" src="/logos/emp09.png"></img></a>
 
 # Junior Role
 
