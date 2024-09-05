@@ -1,5 +1,5 @@
-<a href="/roles/software-engineering-1.md"><img align="right" width="160" src="/logos/emp02.png"></img></a>
-<a href="/roles/software-engineering-1.md"><img align="right" width="160" src="/logos/emp01.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="160" src="/logos/emp02.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="160" src="/logos/emp01.png"></img></a>
 
 # Undergraduate Intern Role
 
