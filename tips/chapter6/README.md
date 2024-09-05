@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 6: Asking Questions at a Job Interview `5 slides`
+# Chapter 6: <br> Asking Questions at a Job Interview <br> `5 slides`
 
 <br>
 <img src="slides/100.png"></img>
