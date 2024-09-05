@@ -41,6 +41,11 @@
 
 ## [`Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md)
 
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
+<br>
+
+## [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
+
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
