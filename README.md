@@ -14,25 +14,10 @@ Interview Preparation for computer science students.
 
 <br><br><br>
 
-<a href="/languages/README.md"><img align="right" width="80" src="/logos/english.png"></img></a>
-<br>
-
-## [`Languages`](/languages/README.md): English
-
-<a href="/languages/README.md"><img align="right" width="80" src="/logos/deutsch.png"></img></a>
-<br>
-
-## [`Languages`](/languages/README.md): Deutsch
-
 <a href="/tips/README.md"><img align="right" width="80" src="/logos/tips.png"></img></a>
 <br>
 
 ## [`Behavioral Interview Tips`](/tips/README.md):
-
-<a href="/tech-docs/README.md"><img align="right" width="80" src="/logos/tech-docs.png"></img></a>
-<br>
-
-## [`Technical Documents`](/tech-docs/README.md):
 
 <a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 <br>
