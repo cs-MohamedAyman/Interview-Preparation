@@ -1,5 +1,5 @@
-<a href="/roles/software-engineering-4.md"><img align="right" width="160" src="/logos/emp14.png"></img></a>
-<a href="/roles/software-engineering-4.md"><img align="right" width="160" src="/logos/emp13.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="160" src="/logos/emp14.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="160" src="/logos/emp13.png"></img></a>
 
 # Mid-Level Role
 
