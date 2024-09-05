@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 1: Client Interview Essentials and Preparation Steps `10 slides`
+# Chapter 1: <br> Client Interview Essentials and Preparation Steps <br> `10 slides`
 
 <br>
 <img src="slides/002.png"></img>
