@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 3: Handling Common Job Interview Questions `40 slides`
+# Chapter 3: <br> Handling Common Job Interview Questions <br> `40 slides`
 
 <br>
 <img src="slides/026.png"></img>
