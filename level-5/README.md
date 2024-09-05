@@ -1,5 +1,5 @@
-<a href="/roles/software-engineering-5.md"><img align="right" width="160" src="/logos/emp18.png"></img></a>
-<a href="/roles/software-engineering-5.md"><img align="right" width="160" src="/logos/emp17.png"></img></a>
+<a href="/level-5/README.md"><img align="right" width="160" src="/logos/emp18.png"></img></a>
+<a href="/level-5/README.md"><img align="right" width="160" src="/logos/emp17.png"></img></a>
 
 # Senior Role
 
