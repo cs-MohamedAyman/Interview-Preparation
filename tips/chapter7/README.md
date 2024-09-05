@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 7: Job Interview Challenges `15 slides`
+# Chapter 7: <br> Job Interview Challenges <br> `15 slides`
 
 <br>
 <img src="slides/105.png"></img>
