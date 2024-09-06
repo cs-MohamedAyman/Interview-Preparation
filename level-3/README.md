@@ -70,17 +70,17 @@
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-## [`Data Analysis - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md)
+## [`Data Analysis Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
 <br>
 
-## [`Data Analysis - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md)
+## [`Data Analysis Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-## [`Data Analysis - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
+## [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/web-scraping-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/web-scraping-apps.png"></img></a>
 <br>
@@ -91,3 +91,30 @@
 <br>
 
 ## [`Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
+<br>
+
+## [`Machine Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
+<br>
+
+## [`Machine Learning Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
+<br>
+
+## [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-numerical.png"></img></a>
+<br>
+
+## [`Educational Projects - Predicting Apps (Numerical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-categorical.png"></img></a>
+<br>
+
+## [`Educational Projects - Predicting Apps (Categorical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md)
+
+
