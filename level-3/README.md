@@ -22,99 +22,124 @@
 
 <br><br>
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
+## Software Engineering
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - HackerRank Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases)
+### [`Probelm Solving Training - HackerRank Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
+### [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
+### [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
 <br>
 
-## [`Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md)
+### [`Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
 <br>
 
-## [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
+### [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
 <br>
 
-## [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
+### [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
 <br>
 
-## [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
+### [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
 <br>
 
-## [`Conan - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md)
+### [`Conan - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conda.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conda.png"></img></a>
 <br>
 
-## [`Conda - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md)
+### [`Conda - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-## [`Data Analysis Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md)
+## Data Science
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-## [`Data Analysis Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md)
+### [`Data Analysis Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
 <br>
 
-## [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
+### [`Data Analysis Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/web-scraping-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/web-scraping-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-## [`Educational Projects - Web Scraping Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/web-scraping-apps/README.md)
+### [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/web-scraping-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/web-scraping-apps.png"></img></a>
 <br>
 
-## [`Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md)
+### [`Educational Projects - Web Scraping Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/web-scraping-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
 <br>
 
-## [`Machine Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md)
+### [`Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-## [`Machine Learning Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md)
+### [`Machine Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
 <br>
 
-## [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md)
+### [`Machine Learning Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-numerical.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-## [`Educational Projects - Predicting Apps (Numerical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md)
+### [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-categorical.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-numerical.png"></img></a>
 <br>
 
-## [`Educational Projects - Predicting Apps (Categorical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md)
+### [`Educational Projects - Predicting Apps (Numerical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-numerical/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/predicting-apps-categorical.png"></img></a>
+<br>
+
+### [`Educational Projects - Predicting Apps (Categorical)`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/predicting-apps-categorical/README.md)
 
 
