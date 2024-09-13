@@ -11,12 +11,12 @@
 ### Chapter 7: [Job Interview Challenges](/tips/chapter7/README.md) `15 slides`
 ### Chapter 8: [Job Interview Preparation Checklist](/tips/chapter8/README.md) `5 slides`
 
-<br>
 <a href="/languages/README.md"><img align="right" width="80" src="/logos/english.png"></img></a>
+<br>
 
 ## [`Enhance Your English Skills`](/tips/english/README.md):
 
-<br>
 <a href="/languages/README.md"><img align="right" width="80" src="/logos/deutsch.png"></img></a>
+<br>
 
 ## [`Enhance Your Deutsch Skills`](/tips/deutsch/README.md):
