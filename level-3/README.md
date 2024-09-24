@@ -66,17 +66,29 @@
 
 ### [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md">
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conan/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
 <br>
 
-### [`Conan - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conan/README.md)
+### [`Conan - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conan/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md">
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conda/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conda.png"></img></a>
 <br>
 
-### [`Conda - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Conda/README.md)
+### [`Conda - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conda/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/maven/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/maven.png"></img></a>
+<br>
+
+### [`Maven - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/maven/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/nuget/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/nuget.png"></img></a>
+<br>
+
+### [`NuGet - Package Manager`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/nuget/README.md)
 
 <br>
 
