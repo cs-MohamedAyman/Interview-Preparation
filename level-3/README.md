@@ -118,11 +118,11 @@
 
 ### [`Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/business-intelligence-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-reports/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/business-intelligence-reports.png"></img></a>
 <br>
 
-### [`Educational Projects - Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-apps/README.md)
+### [`Educational Projects - Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-reports/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
