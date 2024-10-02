@@ -16,62 +16,79 @@
 
 <br><br>
 
-<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/CMake/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cmake.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/CMake/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cmake.png"></img></a>
 <br>
 
 ## [`CMake - Build Automation`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/CMake/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2-player-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
+<br>
+
+## [`Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2-player-games.png"></img></a>
 <br>
 
 ## [`Educational Projects - 2 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/4-player-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/4-player-games.png"></img></a>
 <br>
 
 ## [`Educational Projects - 4 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/1-player-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/1-player-games.png"></img></a>
 <br>
 
 ## [`Educational Projects - 1 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
 <br>
 
-## [`Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md)
+## [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
 <br>
 
-## [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
+## [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
 ## [`SQL - HackerRank`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/leetcode/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/leetcode.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/leetcode/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/leetcode.png"></img></a>
 <br>
 
 ## [`SQL - LeetCode`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/leetcode/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/datacamp/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/datacamp/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
 ## [`SQL - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/datacamp/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/kaggle/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/kaggle/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
 ## [`SQL - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
 <br>
 
 ## [`Educational Projects - Object-Oriented Systems`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
 <br>
 
 ## [`Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md)
