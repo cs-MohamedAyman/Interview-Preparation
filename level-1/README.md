@@ -50,8 +50,3 @@
 <br>
 
 ## [`Probelm Solving Training - LeetCode Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
-<br>
-
-## [`Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md)
