@@ -36,11 +36,15 @@
 
 ### [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
 <br>
 
-### [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
+### [`Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
+<br>
+
+### [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
@@ -53,18 +57,6 @@
 <br>
 
 ### [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
-<br>
-
-### [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
-<br>
-
-### [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conan/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
