@@ -145,27 +145,3 @@
 <br>
 
 ### [`Educational Projects - Unsupervised Predicting Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/unsupervised-predicting-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-4/datacamp/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
-<br>
-
-### [`Deep Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-4/datacamp/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-4/kaggle/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
-<br>
-
-### [`Deep Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-4/kaggle/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/deep-predicting-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/deep-predicting-apps.png"></img></a>
-<br>
-
-### [`Educational Projects - Deep Predicting Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/deep-predicting-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/generative-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/generative-apps.png"></img></a>
-<br>
-
-### [`Educational Projects - Generative Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/generative-apps/README.md)
