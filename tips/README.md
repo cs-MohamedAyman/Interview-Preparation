@@ -1,4 +1,8 @@
+<a href="/tips/README.md"><img align="right" width="160" src="/logos/tips.png"></img></a>
+
 # Behavioral Interview Tips
+
+<br><br><br>
 
 ## Job Interview Prepration Course `10 Hrs`
 
