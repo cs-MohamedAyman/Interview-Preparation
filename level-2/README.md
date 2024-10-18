@@ -22,6 +22,12 @@
 
 ## [`CMake - Build Automation`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/CMake/README.md)
 
+<a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Maven/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/maven.png"></img></a>
+<br>
+
+## [`Maven - Build Automation`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Maven/README.md)
+
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
 <br>
 
