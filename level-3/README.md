@@ -46,18 +46,6 @@
 
 ### [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/1-player-games.png"></img></a>
-<br>
-
-### [`Educational Projects - 1 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
-<br>
-
-### [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
-
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
 <br>
