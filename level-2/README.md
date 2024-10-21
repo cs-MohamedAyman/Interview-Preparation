@@ -33,23 +33,23 @@
 
 ## [`Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2-player-games.png"></img></a>
-<br>
-
-## [`Educational Projects - 2 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/4-player-games.png"></img></a>
-<br>
-
-## [`Educational Projects - 4 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md)
-
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
 <br>
 
 ## [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/multiplayer-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multiplayer-games.png"></img></a>
+<br>
+
+## [`Educational Projects - Multiplayer Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/multiplayer-games/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
+<br>
+
+## [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
