@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 8: Job Interview Preparation Checklist `5 slides`
+# Chapter 8: <br> Job Interview Preparation Checklist <br> `5 slides`
 
 <br>
 <img src="slides/120.png"></img>

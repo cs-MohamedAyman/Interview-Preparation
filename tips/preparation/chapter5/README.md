@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 5: Situational Job Interview Questions `5 slides`
+# Chapter 5: <br> Situational Job Interview Questions <br> `5 slides`
 
 <br>
 <img src="slides/093.png"></img>

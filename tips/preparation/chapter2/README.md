@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 2: Making First Impressions at a Job Interview `5 slides`
+# Chapter 2: <br> Making First Impressions at a Job Interview <br> `5 slides`
 
 <br>
 <img src="slides/019.png"></img>

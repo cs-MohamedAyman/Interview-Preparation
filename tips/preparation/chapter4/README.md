@@ -1,6 +1,4 @@
-# Interview Preparation Tips
-
-## Chapter 4: Behavioral Job Interview Questions `25 slides`
+# Chapter 4: <br> Behavioral Job Interview Questions <br> `25 slides`
 
 <br>
 <img src="slides/068.png"></img>
