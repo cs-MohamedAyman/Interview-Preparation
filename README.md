@@ -1,52 +1,81 @@
-<a href="/README.md"><img align="right" width="160" src="/logos/job-interviews.png"></img></a>
+<a href="/README.md"><img align="right" width="160" src="/logos/interview-preparation.png"></img></a>
 
-# Job Interviews
-Job Interviews for computer science students.
+# Interview Preparation
+Interview Preparation for computer science students.
+
+<table>
+    <tbody>
+<tr>
+<td align="center" width="10%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>looking for a 6-week individual mentorship program? <a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/README.md">fill an application</a></h3><br></td>
+</tr>
+    </tbody>
+</table>
 
 <br><br><br>
 
-<a href="/Tips/README.md"><img align="right" width="80" src="/logos/tips.png"></img></a>
+<a href="/tips/README.md"><img align="right" width="80" src="/logos/tips.png"></img></a>
 
-## [`Interview Tips`](/Tips/README.md)
+## [`Behavioral Interview Tips`](/tips/README.md):
 
-<br><br><br>
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
 
-<a href="/Computer-Science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 
-## [`Computer Science`](/Computer-Science/README.md) Jobs
-Computer Science Jobs for computer science students, which including the following main topics:
+## [`Level 1`](/level-1/README.md): Undergraduate Intern Role
 
-#### - [Algorithm Software Engineer](/Computer-Science/README.md) Jobs
-#### - [Computer Graphics Engineer](/Computer-Science/README.md) Jobs
-#### - [C++ Software Engineer](/Computer-Science/README.md) Jobs
-#### - [Python Software Engineer](/Computer-Science/README.md) Jobs
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
 
-<a href="/Software-Engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="80" src="/logos/level-2.png"></img></a>
 
-## [`Software Engineering`](/Software-Engineering/README.md) Jobs
-Software Engineering Jobs for computer science students, which including the following main topics:
+## [`Level 2`](/level-2/README.md): Graduate Intern Role
 
-#### - [Software Development Engineer](/Software-Engineering/README.md) Jobs
-#### - [DevOps Engineer](/Software-Engineering/README.md) Jobs
-#### - [Cloud Computing Engineer](/Software-Engineering/README.md) Jobs
-#### - [Software Quality Assurance Engineer](/Software-Engineering/README.md) Jobs
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
 
-<a href="/Artificial-Intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.png"></img></a>
+<a href="/level-3/README.md"><img align="right" width="80" src="/logos/level-3.png"></img></a>
 
-## [`Artificial Intelligence`](/Artificial-Intelligence/README.md) Jobs
-Artificial Intelligence Jobs for computer science students, which including the following main topics:
+## [`Level 3`](/level-3/README.md): Junior Role
 
-#### - [Machine Learning Engineer](/Artificial-Intelligence/README.md) Jobs
-#### - [Deep Learning Engineer](/Artificial-Intelligence/README.md) Jobs
-#### - [Natural Language Processing Engineer](/Artificial-Intelligence/README.md) Jobs
-#### - [Computer Vision Engineer](/Artificial-Intelligence/README.md) Jobs
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
 
-<a href="/Data-Science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
 
-## [`Data Science`](/Data-Science/README.md) Jobs
-Data Science Jobs for computer science students, which including the following main topics:
+## [`Level 4`](/level-4/README.md): Mid-Level Role
 
-#### - [Data Scientist](/Data-Science/README.md) Jobs
-#### - [Business Intelligence Engineer](/Data-Science/README.md) Jobs
-#### - [MLOps Engineer](/Data-Science/README.md) Jobs
-#### - [Data Engineer](/Data-Science/README.md) Jobs
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
+
+<a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
+
+## [`Level 5`](/level-5/README.md): Senior Role
+
+<details>
+    <summary></summary>
+    <br>
+<table>
+</table>
+</details>
