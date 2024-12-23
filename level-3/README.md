@@ -39,24 +39,24 @@
 <a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
 <br>
 
-### [`Software Engineering Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/operating-system-apps/README.md)
+### [`Operating System Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/operating-system-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
 <br>
 
-### [`Software Engineering Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/README.md)
+### [`Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/computer-graphics-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
 <br>
 
-### [`Software Engineering Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/computer-graphics-apps/README.md)
+### [`Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/computer-graphics-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-compression-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
 <br>
 
-### [`Software Engineering Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-compression-apps/README.md)
+### [`Data Compression Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-compression-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conan/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
