@@ -108,13 +108,13 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
 <br>
 
-### [`Data Science Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/data-analysis-reports/README.md)
+### [`Data Analysis Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/data-analysis-reports/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/business-intelligence-reports.png"></img></a>
 <br>
 
-### [`Data Science Educational Projects - Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md)
+### [`Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
@@ -138,10 +138,10 @@
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/supervised-predicting-apps.png"></img></a>
 <br>
 
-### [`Data Science Educational Projects - Supervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/supervised-predicting-apps/README.md)
+### [`Supervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/supervised-predicting-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/unsupervised-predicting-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/unsupervised-predicting-apps.png"></img></a>
 <br>
 
-### [`Data Science Educational Projects - Unsupervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/unsupervised-predicting-apps/README.md)
+### [`Unsupervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/unsupervised-predicting-apps/README.md)
