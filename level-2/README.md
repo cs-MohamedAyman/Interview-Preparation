@@ -28,28 +28,28 @@
 
 ## [`Maven - Build Automation`](https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/Maven/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
 <br>
 
-## [`Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md)
+## [`Software Engineering Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/advanced-data-structure-libraries/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/advanced-data-structure-libraries.png"></img></a>
 <br>
 
-## [`Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
+## [`Software Engineering Educational Projects - Advanced Data Structure Libraries`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/advanced-data-structure-libraries/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/multiplayer-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/multiplayer-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/multiplayer-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/multiplayer-games.png"></img></a>
 <br>
 
-## [`Educational Projects - Multiplayer Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/multiplayer-games/README.md)
+## [`Software Engineering Educational Projects - Multiplayer Games`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/multiplayer-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/algorithmic-quest-games.png"></img></a>
 <br>
 
-## [`Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/algorithmic-quest-games/README.md)
+## [`Software Engineering Educational Projects - Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/hackerrank/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
@@ -75,14 +75,14 @@
 
 ## [`SQL - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/object-oriented-systems/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
 <br>
 
-## [`Educational Projects - Object-Oriented Systems`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md)
+## [`Software Engineering Educational Projects - Object-Oriented Systems`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/object-oriented-systems/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/database-systems-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
 <br>
 
-## [`Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md)
+## [`Software Engineering Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/database-systems-apps/README.md)

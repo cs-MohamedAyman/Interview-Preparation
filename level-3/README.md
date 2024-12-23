@@ -36,27 +36,27 @@
 
 ### [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md)
+### [`Software Engineering Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/operating-system-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
+### [`Software Engineering Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/parallel-computing-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/computer-graphics-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md)
+### [`Software Engineering Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/computer-graphics-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-compression-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
+### [`Software Engineering Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/data-compression-apps/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Version-Control-System-and-Automation/blob/master/conan/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/conan.png"></img></a>
@@ -104,17 +104,17 @@
 
 ### [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/data-analysis-reports/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
 <br>
 
-### [`Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-analysis-reports/README.md)
+### [`Data Science Educational Projects - Data Analysis Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/data-analysis-reports/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-reports/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/business-intelligence-reports.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/business-intelligence-reports.png"></img></a>
 <br>
 
-### [`Educational Projects - Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/business-intelligence-reports/README.md)
+### [`Data Science Educational Projects - Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
@@ -134,14 +134,14 @@
 
 ### [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/supervised-predicting-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/supervised-predicting-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/supervised-predicting-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/supervised-predicting-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Supervised Predicting Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/supervised-predicting-apps/README.md)
+### [`Data Science Educational Projects - Supervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/supervised-predicting-apps/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/unsupervised-predicting-apps/README.md">
-<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/unsupervised-predicting-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/unsupervised-predicting-apps/README.md">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/unsupervised-predicting-apps.png"></img></a>
 <br>
 
-### [`Educational Projects - Unsupervised Predicting Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/unsupervised-predicting-apps/README.md)
+### [`Data Science Educational Projects - Unsupervised Predicting Apps`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/unsupervised-predicting-apps/README.md)
