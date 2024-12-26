@@ -86,23 +86,23 @@
 
 ## Data Science
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-### [`Data Analysis Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/datacamp/README.md)
+### [`Data Analysis Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
 <br>
 
-### [`Data Analysis Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/8weeksqlchallenge/README.md)
+### [`Data Analysis Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-### [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/kaggle/README.md)
+### [`Data Analysis Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-2/)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/data-analysis-reports/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/data-analysis-reports.png"></img></a>
@@ -116,23 +116,23 @@
 
 ### [`Business Intelligence Reports`](https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/business-intelligence-reports/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-### [`Machine Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/datacamp/README.md)
+### [`Machine Learning Case Studies - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/8weeksqlchallenge.png"></img></a>
 <br>
 
-### [`Machine Learning Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/8weeksqlchallenge/README.md)
+### [`Machine Learning Case Studies - 8WeekSqlChallenge`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-### [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/kaggle/README.md)
+### [`Machine Learning Case Studies - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-3/)
 
 <a href="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/supervised-predicting-apps/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Educational-Projects/blob/master/logos/supervised-predicting-apps.png"></img></a>
