@@ -51,29 +51,29 @@
 
 ## [`Algorithmic Quest Games`](https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/algorithmic-quest-games/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
-## [`SQL - HackerRank`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/)
+## [`SQL - HackerRank`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/leetcode.png"></img></a>
 <br>
 
-## [`SQL - LeetCode`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/)
+## [`SQL - LeetCode`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/datacamp.png"></img></a>
 <br>
 
-## [`SQL - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/)
+## [`SQL - DataCamp`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/">
+<a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/logos/kaggle.png"></img></a>
 <br>
 
-## [`SQL - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/)
+## [`SQL - Kaggle`](https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/level-1/README.md)
 
 <a href="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/object-oriented-systems/README.md">
 <img align="right" width="80" src="https://github.com/cs-MohamedAyman/Software-Engineering-Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
